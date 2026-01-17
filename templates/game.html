@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="game" id="game">
+    <div class="game-header">
+        <div class="progress">
+            <span id="current">1</span> / <span id="total">10</span>
+        </div>
+        <div class="timer-container">
+            <svg class="timer-ring" viewBox="0 0 100 100">
+                <circle class="timer-bg" cx="50" cy="50" r="45"/>
+                <circle class="timer-progress" cx="50" cy="50" r="45" id="timer-circle"/>
+            </svg>
+            <span class="timer-text" id="timer">20</span>
+        </div>
+    </div>
+
+    <div class="question-card" id="question-card">
+        <div class="question-text" id="question-text"></div>
+    </div>
+
+    <div class="options" id="options"></div>
+
+    <button class="extend-btn" id="extend-btn">
+        +30s
+    </button>
+
+    <button class="next-btn hidden" id="next-btn">Next</button>
+</div>
+
+<div class="game-over hidden" id="game-over">
+    <div class="final-score">
+        <span id="final-score">0</span>/10
+    </div>
+    <p>Submitting score...</p>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const QUESTIONS = {{ questions | tojson }};
+    const PLAYER_NAME = "{{ name }}";
+    const GAME_DATE = "{{ date }}";
+</script>
+<script src="{{ url_for('static', filename='game.js') }}"></script>
+{% endblock %}

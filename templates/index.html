@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="home">
+    <div class="logo">PL Trivia</div>
+    <p class="subtitle">Test your Premier League knowledge</p>
+
+    <form action="{{ url_for('play') }}" method="GET" class="start-form">
+        <input type="text"
+               name="name"
+               placeholder="Enter your name"
+               class="name-input"
+               required
+               autocomplete="off"
+               maxlength="20">
+        <button type="submit" class="start-btn">Play Today's Quiz</button>
+    </form>
+
+    <a href="{{ url_for('leaderboard') }}" class="leaderboard-link">View Leaderboard</a>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Restore name from localStorage
+    const savedName = localStorage.getItem('pl_trivia_name');
+    if (savedName) {
+        document.querySelector('.name-input').value = savedName;
+    }
+
+    // Save name on form submit
+    document.querySelector('.start-form').addEventListener('submit', function() {
+        const name = document.querySelector('.name-input').value;
+        localStorage.setItem('pl_trivia_name', name);
+    });
+</script>
+{% endblock %}
