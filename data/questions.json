@@ -1,302 +1,302 @@
 [
   {
     "id": 1,
-    "question": "Which club won the first Premier League title in 1992-93?",
-    "options": ["Manchester United", "Aston Villa", "Norwich City", "Blackburn Rovers"],
-    "correct": 0
+    "question": "Who assisted Sergio Aguero's title-winning goal against QPR in 2012?",
+    "options": ["David Silva", "Mario Balotelli", "Yaya Toure", "Samir Nasri"],
+    "correct": 1
   },
   {
     "id": 2,
-    "question": "Who is the Premier League's all-time top scorer?",
-    "options": ["Wayne Rooney", "Alan Shearer", "Sergio Aguero", "Thierry Henry"],
+    "question": "Which player scored a hat-trick on his Premier League debut for Arsenal in 1999?",
+    "options": ["Thierry Henry", "Kanu", "Sylvain Wiltord", "Davor Suker"],
     "correct": 1
   },
   {
     "id": 3,
-    "question": "Which team went unbeaten in the 2003-04 season?",
-    "options": ["Manchester United", "Chelsea", "Arsenal", "Liverpool"],
-    "correct": 2
+    "question": "What was the exact scoreline when Manchester United beat Nottingham Forest 8-1 in 1999?",
+    "options": ["8-0", "8-1", "9-0", "7-1"],
+    "correct": 1
   },
   {
     "id": 4,
-    "question": "Who scored the first ever Premier League goal?",
-    "options": ["Alan Shearer", "Brian Deane", "Teddy Sheringham", "Les Ferdinand"],
+    "question": "Who scored Liverpool's last-minute winner against Newcastle in the famous 4-3 game in 1996?",
+    "options": ["Robbie Fowler", "Stan Collymore", "Steve McManaman", "John Barnes"],
     "correct": 1
   },
   {
     "id": 5,
-    "question": "Which club has won the most Premier League titles?",
-    "options": ["Liverpool", "Chelsea", "Manchester City", "Manchester United"],
+    "question": "Which goalkeeper scored a Premier League goal from open play?",
+    "options": ["Peter Schmeichel", "Paul Robinson", "Tim Howard", "Asmir Begovic"],
     "correct": 3
   },
   {
     "id": 6,
-    "question": "In what year did Leicester City win the Premier League?",
-    "options": ["2014", "2015", "2016", "2017"],
+    "question": "What was Leicester City's odds to win the 2015-16 Premier League at the start of the season?",
+    "options": ["1000-1", "2500-1", "5000-1", "10000-1"],
     "correct": 2
   },
   {
     "id": 7,
-    "question": "Who managed Chelsea to their first Premier League title?",
-    "options": ["Claudio Ranieri", "Jose Mourinho", "Carlo Ancelotti", "Avram Grant"],
-    "correct": 1
+    "question": "Who scored the only goal in Arsenal's 49-game unbeaten run that wasn't a win?",
+    "options": ["Thierry Henry", "Robert Pires", "Patrick Vieira", "Dennis Bergkamp"],
+    "correct": 0
   },
   {
     "id": 8,
-    "question": "Which player has made the most Premier League appearances?",
-    "options": ["Ryan Giggs", "Gareth Barry", "Frank Lampard", "David James"],
+    "question": "Which player has scored the most Premier League own goals?",
+    "options": ["Jamie Carragher", "Richard Dunne", "Martin Skrtel", "Phil Jagielka"],
     "correct": 1
   },
   {
     "id": 9,
-    "question": "What is the record for most goals in a single Premier League season?",
-    "options": ["31", "32", "34", "36"],
+    "question": "What minute did Steven Gerrard slip against Chelsea in 2014?",
+    "options": ["42nd", "45th", "48th", "51st"],
     "correct": 2
   },
   {
     "id": 10,
-    "question": "Who holds the record for most goals in a single season (34)?",
-    "options": ["Mohamed Salah", "Erling Haaland", "Alan Shearer", "Cristiano Ronaldo"],
+    "question": "Who did Blackburn pay £5m for in 1994, a British transfer record at the time?",
+    "options": ["Alan Shearer", "Chris Sutton", "Tim Flowers", "David Batty"],
     "correct": 1
   },
   {
     "id": 11,
-    "question": "Which club finished bottom of the first Premier League season?",
-    "options": ["Crystal Palace", "Middlesbrough", "Nottingham Forest", "Oldham Athletic"],
-    "correct": 2
+    "question": "Which club did Eric Cantona play for before joining Manchester United?",
+    "options": ["Sheffield Wednesday", "Leeds United", "Nottingham Forest", "Aston Villa"],
+    "correct": 1
   },
   {
     "id": 12,
-    "question": "Who scored the fastest Premier League hat-trick (2 mins 56 secs)?",
-    "options": ["Robbie Fowler", "Sadio Mane", "Sergio Aguero", "Jermain Defoe"],
-    "correct": 1
+    "question": "How many minutes did Olivier Giroud go without scoring while winning the 2016-17 PFA Fan POTY?",
+    "options": ["700", "754", "823", "901"],
+    "correct": 2
   },
   {
     "id": 13,
-    "question": "Which goalkeeper has the most Premier League clean sheets?",
-    "options": ["David Seaman", "Edwin van der Sar", "Petr Cech", "Peter Schmeichel"],
-    "correct": 2
+    "question": "Who was sent off after 3 seconds for Sheffield United against Reading in 2008?",
+    "options": ["Keith Gillespie", "Phil Jagielka", "Chris Morgan", "Gary Speed"],
+    "correct": 0
   },
   {
     "id": 14,
-    "question": "What year did Blackburn Rovers win the Premier League?",
-    "options": ["1994", "1995", "1996", "1997"],
-    "correct": 1
+    "question": "What was the aggregate score when Arsenal beat Inter Milan in the 2003-04 Champions League?",
+    "options": ["5-2", "6-1", "5-1", "4-2"],
+    "correct": 0
   },
   {
     "id": 15,
-    "question": "Who scored Man City's title-winning goal in 2012 (Aguerooo moment)?",
-    "options": ["Carlos Tevez", "Yaya Toure", "Sergio Aguero", "David Silva"],
-    "correct": 2
+    "question": "Which English player has the most Premier League winners' medals without playing for Man Utd or City?",
+    "options": ["John Terry", "Ashley Cole", "Frank Lampard", "Gary Cahill"],
+    "correct": 1
   },
   {
     "id": 16,
-    "question": "Which manager has won the most Premier League titles?",
-    "options": ["Arsene Wenger", "Jose Mourinho", "Sir Alex Ferguson", "Pep Guardiola"],
-    "correct": 2
+    "question": "Who scored a 40-yard lobbed goal against Wimbledon in 1996?",
+    "options": ["Eric Cantona", "David Beckham", "Matt Le Tissier", "Gianfranco Zola"],
+    "correct": 1
   },
   {
     "id": 17,
-    "question": "How many Premier League titles did Sir Alex Ferguson win?",
-    "options": ["11", "12", "13", "14"],
+    "question": "What was the exact transfer fee for Rio Ferdinand's move from Leeds to Man United in 2002?",
+    "options": ["£25m", "£28m", "£30m", "£33m"],
     "correct": 2
   },
   {
     "id": 18,
-    "question": "Which club has never been relegated from the Premier League?",
-    "options": ["Liverpool", "Arsenal", "Chelsea", "Tottenham"],
-    "correct": 3
+    "question": "Which manager's team conceded the 'Aguerooo' goal in 2012?",
+    "options": ["Mark Hughes", "Neil Warnock", "Harry Redknapp", "Tony Pulis"],
+    "correct": 0
   },
   {
     "id": 19,
-    "question": "Who won the Golden Boot in the first Premier League season?",
-    "options": ["Alan Shearer", "Teddy Sheringham", "Les Ferdinand", "Ian Wright"],
-    "correct": 1
+    "question": "How many league goals did Dimitar Berbatov score in his hat-trick game against Liverpool in 2010?",
+    "options": ["3", "4", "5", "6"],
+    "correct": 2
   },
   {
     "id": 20,
-    "question": "What is Arsenal's home stadium called?",
-    "options": ["Highbury", "Emirates Stadium", "Wembley", "The Den"],
+    "question": "Who scored Chelsea's first Premier League goal under Roman Abramovich?",
+    "options": ["Jimmy Floyd Hasselbaink", "Eidur Gudjohnsen", "Frank Lampard", "Juan Sebastian Veron"],
     "correct": 1
   },
   {
     "id": 21,
-    "question": "Which player has the most Premier League assists?",
-    "options": ["Frank Lampard", "Cesc Fabregas", "Ryan Giggs", "Kevin De Bruyne"],
-    "correct": 2
-  },
-  {
-    "id": 22,
-    "question": "Who was the first foreign manager to win the Premier League?",
-    "options": ["Arsene Wenger", "Claudio Ranieri", "Jose Mourinho", "Ruud Gullit"],
-    "correct": 0
-  },
-  {
-    "id": 23,
-    "question": "Which club did Cristiano Ronaldo join in 2003?",
-    "options": ["Chelsea", "Arsenal", "Manchester United", "Liverpool"],
-    "correct": 2
-  },
-  {
-    "id": 24,
-    "question": "What year did Chelsea first win the Premier League?",
-    "options": ["2003", "2004", "2005", "2006"],
-    "correct": 2
-  },
-  {
-    "id": 25,
-    "question": "Who is Liverpool's all-time Premier League top scorer?",
-    "options": ["Steven Gerrard", "Robbie Fowler", "Michael Owen", "Mohamed Salah"],
-    "correct": 3
-  },
-  {
-    "id": 26,
-    "question": "Which team won the Premier League in the 2019-20 season?",
-    "options": ["Manchester City", "Liverpool", "Chelsea", "Leicester City"],
+    "question": "Which club did Riyad Mahrez play for in France before joining Leicester?",
+    "options": ["Quimper", "Le Havre", "Brest", "Guingamp"],
     "correct": 1
   },
   {
+    "id": 22,
+    "question": "What shirt number did Thierry Henry wear at Arsenal?",
+    "options": ["9", "10", "12", "14"],
+    "correct": 3
+  },
+  {
+    "id": 23,
+    "question": "Who missed the crucial penalty for England against Portugal in Euro 2004 that Rooney got injured in?",
+    "options": ["David Beckham", "Darius Vassell", "Frank Lampard", "Steven Gerrard"],
+    "correct": 1
+  },
+  {
+    "id": 24,
+    "question": "How many goals did Andy Cole score in the 1993-94 season for Newcastle?",
+    "options": ["31", "34", "37", "41"],
+    "correct": 1
+  },
+  {
+    "id": 25,
+    "question": "Which club sold both Sol Campbell AND Ashley Cole to Arsenal?",
+    "options": ["West Ham", "Chelsea", "Tottenham", "Crystal Palace"],
+    "correct": 2
+  },
+  {
+    "id": 26,
+    "question": "What was the final score in the 'Miracle of Istanbul' Champions League final 2005?",
+    "options": ["3-3 (Liverpool won on pens)", "3-2 Liverpool", "4-3 Liverpool", "2-2 (Liverpool won on pens)"],
+    "correct": 0
+  },
+  {
     "id": 27,
-    "question": "Who scored the most goals in a single calendar year (36 in 2017)?",
-    "options": ["Sergio Aguero", "Harry Kane", "Mohamed Salah", "Jamie Vardy"],
+    "question": "Who scored the winning goal in the 1999 Champions League final for Manchester United?",
+    "options": ["Teddy Sheringham", "Ole Gunnar Solskjaer", "David Beckham", "Dwight Yorke"],
     "correct": 1
   },
   {
     "id": 28,
-    "question": "Which stadium is known as 'The Theatre of Dreams'?",
-    "options": ["Anfield", "Stamford Bridge", "Old Trafford", "Etihad Stadium"],
-    "correct": 2
-  },
-  {
-    "id": 29,
-    "question": "Who was the first player to score 100 Premier League goals?",
-    "options": ["Alan Shearer", "Andy Cole", "Les Ferdinand", "Robbie Fowler"],
-    "correct": 0
-  },
-  {
-    "id": 30,
-    "question": "Which club did Thierry Henry play for in the Premier League?",
-    "options": ["Chelsea", "Arsenal", "Manchester United", "Tottenham"],
+    "question": "Which player did Wenger almost sign before he joined Manchester United in 2003?",
+    "options": ["Wayne Rooney", "Cristiano Ronaldo", "Robin van Persie", "Cesc Fabregas"],
     "correct": 1
   },
   {
+    "id": 29,
+    "question": "How many different clubs did Nicolas Anelka play for in the Premier League?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 2
+  },
+  {
+    "id": 30,
+    "question": "Who was the Premier League's first £10 million signing?",
+    "options": ["Alan Shearer", "Stan Collymore", "Dennis Bergkamp", "Fabrizio Ravanelli"],
+    "correct": 0
+  },
+  {
     "id": 31,
-    "question": "What was the original name of the Premier League when it started?",
-    "options": ["English Premier League", "FA Premier League", "Barclays Premier League", "Football League Premier"],
+    "question": "What year did Kevin Keegan's famous 'I would love it' rant happen?",
+    "options": ["1995", "1996", "1997", "1998"],
     "correct": 1
   },
   {
     "id": 32,
-    "question": "Who won back-to-back Golden Boots in 2016-17 and 2017-18?",
-    "options": ["Sergio Aguero", "Harry Kane", "Mohamed Salah", "Jamie Vardy"],
-    "correct": 1
+    "question": "Which defender scored twice in the 2006 FA Cup final for Liverpool against West Ham?",
+    "options": ["Jamie Carragher", "John Arne Riise", "Steve Finnan", "Steven Gerrard"],
+    "correct": 3
   },
   {
     "id": 33,
-    "question": "Which club did Wayne Rooney start his Premier League career at?",
-    "options": ["Manchester United", "Everton", "Liverpool", "Leeds United"],
+    "question": "How many games did Jose Mourinho go unbeaten at home in his first Chelsea stint?",
+    "options": ["64", "77", "86", "92"],
     "correct": 1
   },
   {
     "id": 34,
-    "question": "Who managed Leicester City to their 2015-16 title?",
-    "options": ["Brendan Rodgers", "Nigel Pearson", "Claudio Ranieri", "Craig Shakespeare"],
-    "correct": 2
-  },
-  {
-    "id": 35,
-    "question": "What is the record for consecutive Premier League wins?",
-    "options": ["14", "16", "18", "20"],
-    "correct": 2
-  },
-  {
-    "id": 36,
-    "question": "Which team holds the record for 18 consecutive wins?",
-    "options": ["Manchester United", "Manchester City", "Liverpool", "Chelsea"],
+    "question": "Who did Chelsea sign for £50m from Liverpool in 2011?",
+    "options": ["Raul Meireles", "Fernando Torres", "Daniel Sturridge", "Joe Cole"],
     "correct": 1
   },
   {
+    "id": 35,
+    "question": "What was Arsenal's record signing fee before they bought Mesut Ozil?",
+    "options": ["£10m (Reyes)", "£11m (Wiltord)", "£13m (Arshavin)", "£15m (Arshavin)"],
+    "correct": 3
+  },
+  {
+    "id": 36,
+    "question": "Which player scored a bicycle kick winner for Man United against Man City in 2011?",
+    "options": ["Wayne Rooney", "Dimitar Berbatov", "Nani", "Javier Hernandez"],
+    "correct": 0
+  },
+  {
     "id": 37,
-    "question": "Who scored the fastest Premier League goal (7.69 seconds)?",
-    "options": ["Ledley King", "Alan Shearer", "Shane Long", "Christian Eriksen"],
-    "correct": 2
+    "question": "How many Premier League hat-tricks did Alan Shearer score?",
+    "options": ["9", "11", "13", "15"],
+    "correct": 1
   },
   {
     "id": 38,
-    "question": "Which club's fans sing 'You'll Never Walk Alone'?",
-    "options": ["Manchester United", "Everton", "Liverpool", "Celtic"],
-    "correct": 2
+    "question": "Who was the only player to score in every round of the FA Cup including the final (2014)?",
+    "options": ["Aaron Ramsey", "Yaya Toure", "Steven Gerrard", "Olivier Giroud"],
+    "correct": 0
   },
   {
     "id": 39,
-    "question": "Who was the Premier League's first £1 million player?",
-    "options": ["Alan Shearer", "Chris Sutton", "Andy Cole", "Roy Keane"],
+    "question": "Which team did Jurgen Klopp beat in his first game as Liverpool manager?",
+    "options": ["Tottenham", "Chelsea", "Rubin Kazan", "Southampton"],
     "correct": 2
   },
   {
     "id": 40,
-    "question": "How many points did Manchester City get in their record 2017-18 season?",
-    "options": ["98", "100", "102", "104"],
+    "question": "What was the half-time score in Liverpool's 4-0 win over Barcelona in 2019?",
+    "options": ["0-0", "1-0", "2-0", "3-0"],
     "correct": 1
   },
   {
     "id": 41,
-    "question": "Who was the youngest player to score in the Premier League?",
-    "options": ["Wayne Rooney", "James Vaughan", "Cesc Fabregas", "Michael Owen"],
-    "correct": 1
+    "question": "Who holds the record for fastest Premier League hat-trick by a substitute?",
+    "options": ["Ole Gunnar Solskjaer", "Sadio Mane", "Jermain Defoe", "Robert Lewandowski"],
+    "correct": 0
   },
   {
     "id": 42,
-    "question": "Which club plays at Stamford Bridge?",
-    "options": ["Arsenal", "Tottenham", "Chelsea", "West Ham"],
-    "correct": 2
-  },
-  {
-    "id": 43,
-    "question": "Who was known as 'The Special One'?",
-    "options": ["Pep Guardiola", "Arsene Wenger", "Jose Mourinho", "Carlo Ancelotti"],
-    "correct": 2
-  },
-  {
-    "id": 44,
-    "question": "Which player has scored the most Premier League penalties?",
-    "options": ["Alan Shearer", "Frank Lampard", "Steven Gerrard", "Wayne Rooney"],
+    "question": "Which Welsh club reached the Premier League in 2011?",
+    "options": ["Cardiff City", "Swansea City", "Wrexham", "Newport County"],
     "correct": 1
   },
   {
+    "id": 43,
+    "question": "What was Tottenham's last trophy before the 2008 League Cup?",
+    "options": ["1991 FA Cup", "1999 League Cup", "1984 UEFA Cup", "2001 FA Cup"],
+    "correct": 1
+  },
+  {
+    "id": 44,
+    "question": "Who scored the goal that relegated Sheffield United on the final day of 2006-07?",
+    "options": ["Carlos Tevez", "Bobby Zamora", "David Nugent", "Geoff Horsfield"],
+    "correct": 0
+  },
+  {
     "id": 45,
-    "question": "What year did Manchester City win their first Premier League?",
-    "options": ["2010", "2011", "2012", "2013"],
+    "question": "How many consecutive Premier League games did Arsenal score in (2001-02)?",
+    "options": ["47", "52", "55", "61"],
     "correct": 2
   },
   {
     "id": 46,
-    "question": "Which defender has scored the most Premier League goals?",
-    "options": ["John Terry", "David Unsworth", "Rio Ferdinand", "Leighton Baines"],
-    "correct": 3
+    "question": "Which goalkeeper did David Seaman replace at Arsenal?",
+    "options": ["John Lukic", "David O'Leary", "Pat Jennings", "Bob Wilson"],
+    "correct": 0
   },
   {
     "id": 47,
-    "question": "Who managed Manchester United after Sir Alex Ferguson?",
-    "options": ["Louis van Gaal", "Jose Mourinho", "David Moyes", "Ole Gunnar Solskjaer"],
-    "correct": 2
+    "question": "What nationality is former Chelsea defender Branislav Ivanovic?",
+    "options": ["Croatian", "Serbian", "Bosnian", "Montenegrin"],
+    "correct": 1
   },
   {
     "id": 48,
-    "question": "Which club won their first league title in 132 years in 2020?",
-    "options": ["Manchester City", "Chelsea", "Liverpool", "Leicester City"],
-    "correct": 2
+    "question": "Who scored 5 goals in 9 minutes for Tottenham against Southampton in 2018?",
+    "options": ["Harry Kane", "Son Heung-min", "Dele Alli", "Lucas Moura"],
+    "correct": 1
   },
   {
     "id": 49,
-    "question": "Who holds the record for most red cards in Premier League history?",
-    "options": ["Roy Keane", "Patrick Vieira", "Richard Dunne", "Duncan Ferguson"],
-    "correct": 2
+    "question": "Which former Premier League player became president of Liberia?",
+    "options": ["George Weah", "Christopher Wreh", "Emmanuel Adebayor", "Nwankwo Kanu"],
+    "correct": 0
   },
   {
     "id": 50,
-    "question": "What is Tottenham's home stadium called?",
-    "options": ["White Hart Lane", "Wembley", "Tottenham Hotspur Stadium", "The Lane"],
+    "question": "What was the original price of a Premier League season ticket at Arsenal in 1992?",
+    "options": ["£285", "£395", "£475", "£560"],
     "correct": 2
   }
 ]
